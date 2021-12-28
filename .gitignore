@@ -28,5 +28,4 @@ HELP.md
 ### VS Code ###
 .vscode/
 
-### mysql ###
-/msql/
+*.DS_Store
